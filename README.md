@@ -3,14 +3,14 @@
 
 <b>Устаревшие слова: </b>
   
-бла
+Сей
   
-<img alt="Сей" width="80%" src="сей.png">  
+<img alt="Сей" width="50%" src="сей.png">  
 
-бла бла
+Град
 
-<img alt="Град" width="80%" src="град.png">  
+<img alt="Град" width="50%" src="град.png">  
 
-бла бла бла
+Вещать
 
-<img alt="Вещать" width="80%" src="вещать.png">  
+<img alt="Вещать" width="50%" src="вещать.png">  
