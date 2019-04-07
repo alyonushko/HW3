@@ -5,12 +5,12 @@
   
 Сей
   
-<img alt="Сей" width="50%" src="сей.png">  
+<img alt="Сей" width="60%" src="сей.png">  
 
 Град
 
-<img alt="Град" width="50%" src="град.png">  
+<img alt="Град" width="60%" src="град.png">  
 
 Вещать
 
-<img alt="Вещать" width="50%" src="вещать.png">  
+<img alt="Вещать" width="60%" src="вещать.png">  
