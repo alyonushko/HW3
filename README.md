@@ -14,3 +14,11 @@
 Вещать
 
 <img alt="Вещать" width="60%" src="вещать.png">  
+
+N-грамы
+
+<img alt="N-Gram" width="60%" src="N-граммы.png">  
+
+Коллокаты
+
+<img alt="Collocates" width="60%" src="коллокейты.png">  
