@@ -1,3 +1,3 @@
 # HW3
 
-<img alt="Сей" width="50%" src="УС - вещать.png">  
+<img alt="Сей" width="80%" src="УС - вещать.png">  
